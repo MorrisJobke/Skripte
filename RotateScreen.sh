@@ -2,7 +2,7 @@
 # From Red_Lion post #576:  http://ubuntuforums.org/showthread.php?t=845911&page=58
 
 old="0"
-stylus='Serial Wacom Tablet'
+stylus='Serial Wacom Tablet stylus'
 
 while true; do
 	if [[ -e /sys/devices/platform/hp-wmi/tablet ]]; then
